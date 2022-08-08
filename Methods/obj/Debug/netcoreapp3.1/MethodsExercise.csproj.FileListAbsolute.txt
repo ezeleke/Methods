@@ -1,0 +1,14 @@
+C:\Users\Ebenezer\repos\Methods\Methods\bin\Debug\netcoreapp3.1\MethodsExercise.exe
+C:\Users\Ebenezer\repos\Methods\Methods\bin\Debug\netcoreapp3.1\MethodsExercise.deps.json
+C:\Users\Ebenezer\repos\Methods\Methods\bin\Debug\netcoreapp3.1\MethodsExercise.runtimeconfig.json
+C:\Users\Ebenezer\repos\Methods\Methods\bin\Debug\netcoreapp3.1\MethodsExercise.runtimeconfig.dev.json
+C:\Users\Ebenezer\repos\Methods\Methods\bin\Debug\netcoreapp3.1\MethodsExercise.dll
+C:\Users\Ebenezer\repos\Methods\Methods\bin\Debug\netcoreapp3.1\MethodsExercise.pdb
+C:\Users\Ebenezer\repos\Methods\Methods\obj\Debug\netcoreapp3.1\MethodsExercise.csproj.AssemblyReference.cache
+C:\Users\Ebenezer\repos\Methods\Methods\obj\Debug\netcoreapp3.1\MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ebenezer\repos\Methods\Methods\obj\Debug\netcoreapp3.1\MethodsExercise.AssemblyInfoInputs.cache
+C:\Users\Ebenezer\repos\Methods\Methods\obj\Debug\netcoreapp3.1\MethodsExercise.AssemblyInfo.cs
+C:\Users\Ebenezer\repos\Methods\Methods\obj\Debug\netcoreapp3.1\MethodsExercise.csproj.CoreCompileInputs.cache
+C:\Users\Ebenezer\repos\Methods\Methods\obj\Debug\netcoreapp3.1\MethodsExercise.dll
+C:\Users\Ebenezer\repos\Methods\Methods\obj\Debug\netcoreapp3.1\MethodsExercise.pdb
+C:\Users\Ebenezer\repos\Methods\Methods\obj\Debug\netcoreapp3.1\MethodsExercise.genruntimeconfig.cache
